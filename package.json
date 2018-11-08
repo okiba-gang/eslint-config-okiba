@@ -1,11 +1,11 @@
 {
-  "name": "okiba-eslint-config",
+  "name": "eslint-config-okiba",
   "version": "0.0.6",
-  "description": "Eslint config for okiba-gang",
+  "description": "Eslint config for okiba-gang projects",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:okiba-gang/okiba-eslint-config.git"
+    "url": "git@github.com:okiba-gang/eslint-config-okiba.git"
   },
   "peerDependencies": {
     "eslint": ">= 3"
