@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-okiba",
+  "name": "eslint-config-okiba-gang",
   "version": "0.0.6",
   "description": "Eslint config for okiba-gang projects",
   "main": "index.js",
